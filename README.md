@@ -6,7 +6,7 @@
 ## Configurações da VM
 ### 1. Na parte superior da VM selecione Novo.
 ### 2. Criação da Maquina Virtual.
-Após, ira abrir a janela de criação, nela pode ser configurado o nome, pasta onde a maquina sera guardada, tipo de sistema operacional que sera usuado na maquina e versão do sistema operacional.
+Após, ira abrir a janela de criação, nela pode ser configurado o nome, pasta onde a maquina sera guardada, tipo de sistema operacional que sera usado na maquina e versão do sistema operacional.
 - Nome: Oracle Linux 8.6
 - Tipo: Linux
 - Versão: Oracle (64-bit)
@@ -35,7 +35,7 @@ Vá em acrescentar e seleciona a ISO Oracle Linux 8.6.
 É recomendado selecionar o inglês por ser o primeiro a receber novas versões.
 ### 2. Localization
 #### 2.1 Selecionar idioma do teclado (Keyboard)
-Caso você tenha selecionado inglês na primeira parte o linux automáticamente deixa seu teclado como padrão inglês. Para trocar é so tirar o English e adicionar o Portuguese (Brazil)
+Caso você tenha selecionado inglês na primeira parte o linux automaticamente deixa seu teclado como padrão inglês. Para trocar é so tirar o English e adicionar o Portuguese (Brazil)
 #### 2.2 Configurar data e hora (Time & Date)
 Nesta parte é onde é configurado a data e hora que o sistema deve receber.
 ### 3. Software
@@ -55,4 +55,4 @@ Para ter acesso a internet troca o off para on. Para trocar o nome da máquina �
 #### 5.1 Senha do Root (Root Password)
 Aqui é definido a senha do usuário Root.
 #### 5.2 Criar usuário (User Creation)
-Nessa parte é criado o primeiro usuário da máquina, aqui já é possivel definir o usuário como adminitrador (Sudoer).
+Nessa parte é criado o primeiro usuário da máquina, aqui já é possivel definir o usuário como administrador (Sudoer).
