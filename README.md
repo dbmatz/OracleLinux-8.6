@@ -55,4 +55,4 @@ Para ter acesso a internet troca o off para on. Para trocar o nome da máquina �
 #### 5.1 Senha do Root (Root Password)
 Aqui é definido a senha do usuário Root.
 #### 5.2 Criar usuário (User Creation)
-Nesa parte é criado o primeiro usuário da máquina, aqui já é possivel definir o usuário como adminitrador (Sudoer).
+Nessa parte é criado o primeiro usuário da máquina, aqui já é possivel definir o usuário como adminitrador (Sudoer).
